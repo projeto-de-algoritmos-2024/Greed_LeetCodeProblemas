@@ -4,16 +4,25 @@
 **Conteúdo da Disciplina**: Greed<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| 22/1021886  |     Cássio Sousa dos Reis     |
-| 22/1031149  |  Danilo Cesar Tertuliano Melo |
+| Matrícula  | Aluno                        |
+| ---------- | ---------------------------- |
+| 22/1021886 | Cássio Sousa dos Reis        |
+| 22/1031149 | Danilo Cesar Tertuliano Melo |
 
 ## Sobre 
 Este projeto tem como objetivo a resolução de exercícios da plataforma de juíz online LeetCode sobre o conteúdo de algoritmos ambiciosos (Greed).
 
+### Questões
+
+| Nome                                                                                      | Dificuldade |
+| ----------------------------------------------------------------------------------------- | ----------- |
+| [630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description) | Difícil     |
+
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+### 630. Course Schedule III
+
+![630. Course Schedule III](images/submission630.png)
 
 ## Instalação 
 **Linguagem**: xxxxxx<br>
