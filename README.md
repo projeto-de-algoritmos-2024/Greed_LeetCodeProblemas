@@ -14,9 +14,10 @@ Este projeto tem como objetivo a resolução de exercícios da plataforma de ju�
 
 ### Questões
 
-| Nome                                                                                      | Dificuldade |
-| ----------------------------------------------------------------------------------------- | ----------- |
-| [630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description) | Difícil     |
+| Nome                                                                                       | Dificuldade |
+| ------------------------------------------------------------------------------------------ | ----------- |
+| [630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description)  | Difícil     |
+| [1029. Two City Scheduling](https://leetcode.com/problems/course-schedule-iii/description) | Médio       |
 
 ## Screenshots
 
@@ -24,10 +25,11 @@ Este projeto tem como objetivo a resolução de exercícios da plataforma de ju�
 
 ![630. Course Schedule III](images/submission630.png)
 
+### 1029. Two City Scheduling
+![1029. Two City Scheduling](images/submission1029.png)
+
 ## Instalação 
 **Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso 
 Para rodar os códigos, primeiro acesse o site do [LeetCode](https://leetcode.com/), faça login e pesquise a questão. Depois, selecione a linguagem correta, copie e cole o código na aba "Code", e clique em "Run" para testar ou "Submit" para enviar a solução.
