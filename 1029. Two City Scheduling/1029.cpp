@@ -14,5 +14,17 @@ public:
     int twoCitySchedCost(vector<vector<int>>& costs) {
         // Ordenar pela diferença de custo entre ir para cidade A e B
         sort(costs.begin(), costs.end(), compareByCostDiff);
+
+        int size = costs.size();
+        int n = size / 2;
+        int totalCost = 0;
+
+        // Seleciona as primeiras n pessoas para a cidade A e as últimas n para a cidade B
+        for (int i = 0; i < n; i++) {
+            totalCost += costs[i][0];
+            totalCost += costs[size - i - 1][1];
+        }
+
+        return totalCost;
     }
 };
